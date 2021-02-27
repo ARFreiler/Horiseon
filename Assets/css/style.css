@@ -30,6 +30,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Styles the nav element of the header */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,24 +39,29 @@ body {
     font-size: 20px;
 }
 
+/* Sets the style type of the unordered list */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Styles the unordered list */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Sets the text color of the nav links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Sets the font size of all paragraph tags */
 p {
     font-size: 16px;
 }
 
+/* Styles the image of the figure tag */
 .hero {
     height: 800px;
     width: 100%;
@@ -65,22 +71,26 @@ p {
     background-position: center;
 }
 
+/* Styles the main content element */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Sets float direction of article tags left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Sets float direction of article tags right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Styles the aside element */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -92,6 +102,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Sets text color and margin of section tags of aside element */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -99,6 +110,7 @@ p {
     color: #ffffff;
 }
 
+/* Sets text alignment and bottom margin of h3 tags of aside element */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -106,6 +118,7 @@ p {
     text-align: center;
 }
 
+/* Sets style of images of the aside element */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -114,6 +127,7 @@ p {
     max-width: 150px;
 }
 
+/* Styles the article tags */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -125,12 +139,14 @@ p {
     color: #ffffff;
 }
 
+/* Styles the images of the article tags */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* Styles h2 tags of the article tags */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -138,6 +154,7 @@ p {
     font-size: 36px;
 }
 
+/* Styles the footer tag */
 .footer {
     padding: 30px;
     clear: both;
@@ -145,6 +162,7 @@ p {
     text-align: center;
 }
 
+/* Sets font size of footer h2 */
 .footer h2 {
     font-size: 20px;
 }

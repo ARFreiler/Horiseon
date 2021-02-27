@@ -102,31 +102,6 @@ p {
     background-color: #2589bd;
 }
 
-/* Sets text color and margin of section tags of aside element */
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* Sets text alignment and bottom margin of h3 tags of aside element */
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* Sets style of images of the aside element */
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 /* Styles the article tags */
 .search-engine-optimization,
 .online-reputation-management,
@@ -152,6 +127,31 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* Sets text color and margin of section tags of aside element */
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Sets text alignment and bottom margin of h3 tags of aside element */
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Sets style of images of the aside element */
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 /* Styles the footer tag */

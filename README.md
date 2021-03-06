@@ -26,8 +26,8 @@ Open index.html in Chrome.
 
 (https://github.com/ARFreiler/Horiseon)
 
-![](https://user-images.githubusercontent.com/75546695/110222829-393cff80-7ea3-11eb-9bac-79e2f6ada8ed.png)
-
 ### Horiseon Web Services
 
 (https://arfreiler.github.io/Horiseon/)
+
+![](https://user-images.githubusercontent.com/75546695/110222829-393cff80-7ea3-11eb-9bac-79e2f6ada8ed.png)

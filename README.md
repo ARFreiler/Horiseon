@@ -4,11 +4,11 @@
 
 [Description](#description)
 
-[Installation](installation)
+[Installation](#installation)
 
-[Credits](credits)
+[Credits](#credits)
 
-[Links](links)
+[Links](#links)
 
 ## Description
 

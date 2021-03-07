@@ -20,12 +20,8 @@ Open index.html in Chrome.
 
 ## Links
 
-### Repository
+[Repository](https://github.com/ARFreiler/Horiseon)
 
-(https://github.com/ARFreiler/Horiseon)
-
-### Horiseon Web Services
-
-(https://arfreiler.github.io/Horiseon/)
+[Horiseon Web Services](https://arfreiler.github.io/Horiseon/)
 
 ![](https://user-images.githubusercontent.com/75546695/110222829-393cff80-7ea3-11eb-9bac-79e2f6ada8ed.png)

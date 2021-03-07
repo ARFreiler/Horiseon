@@ -10,7 +10,7 @@ Open index.html in Chrome.
 
 ## Credits
 
-(https://www.w3schools.com)
+[W3Schools](https://www.w3schools.com)
 
 (https://guides.github.com/features/mastering-markdown/#examples)
 

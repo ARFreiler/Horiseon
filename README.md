@@ -12,13 +12,11 @@ Open index.html in Chrome.
 
 [W3Schools](https://www.w3schools.com)
 
-(https://guides.github.com/features/mastering-markdown/#examples)
+[Tutorial Republic](https://www.tutorialrepublic.com)
 
-(https://www.tutorialrepublic.com)
+[FreeCodeCamp](https://www.freecodecamp.org/)
 
-(https://www.freecodecamp.org/)
-
-(https://developer.mozilla.org/en-US/docs/Learn)
+[MDN Documents](https://developer.mozilla.org/en-US/docs/Learn)
 
 ## Links
 

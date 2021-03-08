@@ -10,6 +10,8 @@
 
 [Links](#links)
 
+[License](#license)
+
 ## Description
 
 The aim of this project was to increase user interface accessability to make Horiseon's services available to all user's, regardless of ability.
